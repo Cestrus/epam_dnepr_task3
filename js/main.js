@@ -1,6 +1,6 @@
 import { ControllerPostForm } from './PostForm/controllerPostForm.js';
 import { ControllerPostPage } from './PostPage/controllerPostPage.js';
-import { SliderTwo as Slider } from './slider/slider.js';
+import { SliderOne as Slider } from './slider/slider.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     new ControllerPostForm();
